@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(to right, rgb(213, 61, 103), rgb(218, 170, 82))
+}
+
+.nav-logo {
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  margin-right: 4rem;
+}
+
+.Actn {
+  border: none;
+  padding: 1rem 3rem;
+  border-radius: 3rem;
+}
+
+.biz {
+  color: white;
+}
+
+.hero {
+  color: white;
+  font-size: 3rem;
+}
+
+.sub-hero {
+  color: white;
+  font-size: 1.65rem;
+}
+
+.sub-btn {
+  border: none;
+  padding: 1rem 3rem;
+  border-radius: 3rem;
+  margin-top: 3em;
+}
+
+.content {
+  margin-top: 8rem;
+  display: flex;
+}
